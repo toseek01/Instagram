@@ -67,14 +67,14 @@ shapelyLib состоит всего из 10 методов, и в этой гл
 ![Image alt](https://github.com/toseek01/Instagram/blob/master/illustration/LetsGo_Technik.png)
 
 Итак,имеем следующие методы:
-1 `__init__`
-2 `UniqueChainCheck`
-3 `ChainSplit`
-4 `ChannelDict`
-5 `UniqueChannel`
-6 `ChanneltoID`
-7 `ZeroMatrix`
-8 `Vectorization`
-9 `Calc`
-10 `DecodeDict`
+- `__init__`
+- `UniqueChainCheck`
+- `ChainSplit`
+- `ChannelDict`
+- `UniqueChannel`
+- `ChanneltoID`
+- `ZeroMatrix`
+- `Vectorization`
+- `Calc`
+- `DecodeDict`
 
