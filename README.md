@@ -36,12 +36,15 @@
   
 **Contents**
 
-1.1 Theory Shapley Quick Start</br>
-1.2 shapelyLib methods</br>
-1.3 What is it "Shapley properties" and why we need to check shapleyLib result</br>
-2.1 Theory Ordered Shapley Quick start</br>
-2.2.shapleyOrderLib methods</br>
-2.3 How to use shapleyOrderLib</br>
+
+* 1.1 Theory Shapley Quick Start</br>
+* 1.2  shapelyLib methods</br>
+* 1.3  What is it "Shapley properties" and why we need to check shapleyLib result</br>
+
+* 2.1  Theory Ordered Shapley Quick start</br>
+* 2.2. shapleyOrderLib methods</br>
+* 2.3  How to use shapleyOrderLib</br>
+
 
 1.1 Theory Shapley Quick Start
 
